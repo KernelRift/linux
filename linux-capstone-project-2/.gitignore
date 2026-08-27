@@ -1,0 +1,20 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs and runtime output
+*.log
+*.tmp
+*.pid
+
+# Secrets / local environment
+.env
+.env.*
+!.env.example
+
+# Python/cache artifacts if tooling is added later
+__pycache__/
