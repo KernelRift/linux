@@ -248,4 +248,12 @@ This project shows hands-on Linux administration rather than only command-line p
 
 ## Notes
 
+## Related Project
+
+### Linux Capstone Project 1
+
+This project builds on the Linux administration fundamentals demonstrated in Project 1, including users and groups, permissions, ACLs, process management, Bash scripting, and cron automation.
+
+➡️ **[View Linux Capstone Project 1](https://github.com/KernelRift/linux-capstone-project-1)**
+
 The repository version of the Bash scripts is cleaned up for readability and portability while preserving the functionality demonstrated in the submitted project report. The screenshots are retained as project evidence.
